@@ -5,7 +5,7 @@
 // This program calculates the area and perimeter of a rectangle
 
 #include <iostream>
-#include <cmath> // You need to add this library for pow() function
+#include <cmath> //  You need to add this library for pow() function
 
 int main() {
     std::cout << "The rectangle's dimensions are L= 5, W= 3 " << std::endl;
